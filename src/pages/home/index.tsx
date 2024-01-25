@@ -1,5 +1,3 @@
 export const Home = () => {
-  return (
-    <div>index</div>
-  )
-}
+  return <div>Home</div>;
+};
